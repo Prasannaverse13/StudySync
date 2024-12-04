@@ -1,8 +1,7 @@
 # StudySync - Chrome Extension
 
 <p align="center">
-  <img src="![icon128](https://github.com/user-attachments/assets/5aedbbab-eade-40ac-840d-6f805434b239)
-" alt="StudySync Icon" width="128" height="128">
+![icon128](https://github.com/user-attachments/assets/797675c1-0170-4782-845b-0552b43372ba)
 </p>
 
                                                    
