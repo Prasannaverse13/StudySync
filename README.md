@@ -1,6 +1,6 @@
 # StudySync - Chrome Extension
 
-![icon128](https://github.com/user-attachments/assets/fb8efe37-64a3-498c-ad74-caf35c8dcb02)
+                                                   ![icon128](https://github.com/user-attachments/assets/fb8efe37-64a3-498c-ad74-caf35c8dcb02)
 
 StudySync is a Chrome Extension designed to enhance the way you engage with web content. It uses built-in AI-powered APIs for summarization, academic rewriting, and translation to improve comprehension and research. Whether you're reading long articles, studying for exams, or translating content, StudySync simplifies the process by providing quick, actionable insights.
 
